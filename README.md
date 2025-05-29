@@ -3,7 +3,6 @@
 - 🏫✔️ Finished B.Sc. in Machine Learning & Data Science at the University of Copenhagen 🇩🇰
 - 👷Currently working as a Student Data Scientist at Laerdal Copenhagen
 - 👀 I’m interested in ML/AI, Computer vision
-- 🌱 I’m currently learning API development (FastAPI) in my free time.
 - 🔗 https://www.linkedin.com/in/christian-thor-moller/
 
 <!--- 
